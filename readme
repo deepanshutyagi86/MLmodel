@@ -1,0 +1,7 @@
+# Handwritten Digit Recognition
+Built a neural network with TensorFlow to classify MNIST digits. Achieved ~92% accuracy using forward/backpropagation and ReLU activation.
+
+## How to Run
+1. Install: `pip install tensorflow numpy matplotlib`
+2. Open `digit_recognition.ipynb` in Jupyter Notebook.
+3. Run all cells.
